@@ -58,18 +58,17 @@ for index, row in target.iterrows():
 
     if row["source_value"]:
         for translator in translators:
-            if not target[translator][index]:
+            if not target[translator][index] or len(target[translator][index]) == 0:
                 try:
                     target.loc[index, translator] = html.unescape(ts.translate_text(query_text = str(row["source_value"]), translator = translator, from_language = sourceLanguage, to_language = targetLanguage))
                 except Exception as e:
-                    e.__cause__
                     target.loc[index, translator] = ""
                     success = False
                     if (timeout > maxTimeOut):
-                        print("Max timeout {} reached. {} has not been translated with {}. ".format(timeout, row["subject_id"], translator), end="")
+                        print("Max timeout {} reached. {} has not been translated with {} ({}). ".format(timeout, row["subject_id"], translator, str(e)), end="")
                     else:
                         timeout = timeout * 2
-                        print("Timeout set to {}. {} has not been translated with {}. ".format(timeout, row["subject_id"], translator), end="")
+                        print("Timeout set to {}. {} has not been translated with {} ({}). ".format(timeout, row["subject_id"], translator, str(e)), end="")
             else:
                 print("Skipping {}. ".format(row["subject_id"]), end="")
         if success:
