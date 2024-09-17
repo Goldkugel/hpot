@@ -70,7 +70,7 @@ for index, row in target.iterrows():
                         timeout = timeout * 2
                         print("Timeout set to {}. {} has not been translated with {} ({}). ".format(timeout, row["subject_id"], translator, str(e)), end="")
             else:
-                print("Skipping {}. ".format(row["subject_id"]), end="")
+                print("Skipping {} with translator {}. ".format(row["subject_id"], translator), end="")
         if success:
             print("Translated successfully.")
         else:
