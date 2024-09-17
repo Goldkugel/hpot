@@ -20,8 +20,8 @@ translators = ["google", "alibaba", "yandex", "sogou"] # "deepl", "bing",
 separator = "\t"
 mode = "w"
 
-source = pd.read_csv(sourceFile, sep = separator)
-official = pd.read_csv(officialFile, sep = separator)
+source = pd.read_csv(sourceFile, sep = separator, na_values='')
+official = pd.read_csv(officialFile, sep = separator, na_values='')
 
 count = len(source)
 
