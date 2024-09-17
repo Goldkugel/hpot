@@ -15,7 +15,7 @@ targetLanguage = str(sys.argv[4])
 officialFile = str(sys.argv[5])
 maxTimeOut = int(sys.argv[6])
 
-translators = ["google", "alibaba", "yandex", "sogou"] # "deepl", "bing",
+translators = ["google"]#, "alibaba", "yandex", "sogou"] # "deepl", "bing",
 
 separator = "\t"
 mode = "w"
