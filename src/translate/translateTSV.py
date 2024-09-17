@@ -35,7 +35,8 @@ target = pd.DataFrame.from_dict({
 })
 
 if os.path.isfile(targetFile):
-    target = pd.read_csv(targetFile, sep=separator).fillna("", inplace = True)
+    target = pd.read_csv(targetFile, sep=separator)
+    target.fillna("", inplace = True)
 
 for translator in translators:
     if not translator in target.columns:
