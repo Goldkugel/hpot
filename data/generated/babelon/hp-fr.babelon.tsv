@@ -1,0 +1,250 @@
+subject_id	source_language	translation_language	predicate_id	source_value	translation_status	translation_value	translation_official	translator
+HP:0000001	en	fr	rdfs:label	All	NOT_TRANSLATED		Tous	alibaba
+GO:0000016	en	fr	rdfs:label	lactase activity	NOT_TRANSLATED			alibaba
+GO:0003857	en	fr	rdfs:label	3-hydroxyacyl-CoA dehydrogenase activity	NOT_TRANSLATED			alibaba
+HP:0000002	en	fr	rdfs:label	Abnormality of body height	NOT_TRANSLATED		Anomalie de la taille corporelle	alibaba
+HP:0001507	en	fr	rdfs:label	Growth abnormality	NOT_TRANSLATED		Anomalie de la croissance	alibaba
+HP:0000003	en	fr	rdfs:label	Multicystic kidney dysplasia	NOT_TRANSLATED		Polykystose rénale	alibaba
+HP:0000107	en	fr	rdfs:label	Renal cyst	NOT_TRANSLATED		Kyste rénal	alibaba
+HP:0000005	en	fr	rdfs:label	Mode of inheritance	NOT_TRANSLATED		Mode de transmission 	alibaba
+HP:0000006	en	fr	rdfs:label	Autosomal dominant inheritance	NOT_TRANSLATED		Transmission autosomique dominante	alibaba
+HP:0034345	en	fr	rdfs:label	Mendelian inheritance	NOT_TRANSLATED			alibaba
+HP:0000007	en	fr	rdfs:label	Autosomal recessive inheritance	NOT_TRANSLATED		Transmission autosomique récessive	alibaba
+HP:0000008	en	fr	rdfs:label	Abnormal morphology of female internal genitalia	NOT_TRANSLATED		Anomalie des organes génitaux internes de la femme	alibaba
+HP:0000812	en	fr	rdfs:label	Abnormal internal genitalia	NOT_TRANSLATED		Anomalie génitale interne	alibaba
+HP:0010460	en	fr	rdfs:label	Abnormality of the female genitalia	NOT_TRANSLATED		anomalie des organes génitaux féminins	alibaba
+HP:0000009	en	fr	rdfs:label	Functional abnormality of the bladder	NOT_TRANSLATED		Anomalie fonctionnelle de la vessie	alibaba
+HP:0000014	en	fr	rdfs:label	Abnormality of the bladder	NOT_TRANSLATED		Anomalie vésicale	alibaba
+HP:0000010	en	fr	rdfs:label	Recurrent urinary tract infections	NOT_TRANSLATED		Infections urinaires à répétition	alibaba
+HP:0002719	en	fr	rdfs:label	Recurrent infections	NOT_TRANSLATED		Infections récurrentes	alibaba
+HP:0011277	en	fr	rdfs:label	Abnormality of the urinary system physiology	NOT_TRANSLATED		Anomalie de la physiologie du système urinaire	alibaba
+HP:0000011	en	fr	rdfs:label	Neurogenic bladder	NOT_TRANSLATED		Vessie neurologique	alibaba
+HP:0000012	en	fr	rdfs:label	Urinary urgency	NOT_TRANSLATED		impériosité mictionnelle	alibaba
+HP:0000013	en	fr	rdfs:label	Hypoplasia of the uterus	NOT_TRANSLATED		Hypoplasie utérine	alibaba
+HP:0008684	en	fr	rdfs:label	Aplasia/hypoplasia of the uterus	NOT_TRANSLATED		Aplasie/hypoplasie de l'utérus	alibaba
+HP:0010936	en	fr	rdfs:label	Abnormality of the lower urinary tract	NOT_TRANSLATED		Anomalie des voies urinaires basses	alibaba
+HP:0000015	en	fr	rdfs:label	Bladder diverticulum	NOT_TRANSLATED		Diverticule de la vessie	alibaba
+HP:0025487	en	fr	rdfs:label	Abnormal bladder morphology	NOT_TRANSLATED		Anomalie de la morphologie de la vessie	alibaba
+HP:0000016	en	fr	rdfs:label	Urinary retention	NOT_TRANSLATED		Rétention urinaire	alibaba
+HP:0000017	en	fr	rdfs:label	Nocturia	NOT_TRANSLATED		Nycturie	alibaba
+HP:0000019	en	fr	rdfs:label	Urinary hesitancy	NOT_TRANSLATED		Impériosité urinaire	alibaba
+HP:0000020	en	fr	rdfs:label	Urinary incontinence	NOT_TRANSLATED		Incontinence urinaire	alibaba
+HP:0031064	en	fr	rdfs:label	Impaired continence	NOT_TRANSLATED		Troubles de la continence	alibaba
+HP:0000021	en	fr	rdfs:label	Megacystis	NOT_TRANSLATED		Mégavessie	alibaba
+HP:0010955	en	fr	rdfs:label	Dilatation of the bladder	NOT_TRANSLATED		Dilatation de la vessie	alibaba
+HP:0000022	en	fr	rdfs:label	Abnormal male internal genitalia morphology	NOT_TRANSLATED		Anomalie des organes génitaux internes masculins	alibaba
+HP:0010461	en	fr	rdfs:label	Abnormality of the male genitalia	NOT_TRANSLATED		anomalie de l'appareil génital masculin	alibaba
+HP:0000023	en	fr	rdfs:label	Inguinal hernia	NOT_TRANSLATED		Hernie inguinale	alibaba
+HP:0004299	en	fr	rdfs:label	Hernia of the abdominal wall	NOT_TRANSLATED		Hernie de la paroi abdominale	alibaba
+HP:0000024	en	fr	rdfs:label	Prostatitis	NOT_TRANSLATED		Prostatite	alibaba
+HP:0008775	en	fr	rdfs:label	Abnormal prostate morphology	NOT_TRANSLATED		Anomalie de la prostate	alibaba
+HP:0012649	en	fr	rdfs:label	Increased inflammatory response	NOT_TRANSLATED		Réponse inflammatoire augmentée	alibaba
+HP:0000025	en	fr	rdfs:label	Functional abnormality of male internal genitalia	NOT_TRANSLATED		Anomalie fonctionnelle des organes génitaux internes masculins	alibaba
+HP:0012874	en	fr	rdfs:label	Abnormal male reproductive system physiology	NOT_TRANSLATED		Anomalie de la physiologie de l'appareil reproducteur masculin	alibaba
+HP:0000026	en	fr	rdfs:label	Male hypogonadism	NOT_TRANSLATED		Hypogonadisme masculin	alibaba
+HP:0000135	en	fr	rdfs:label	Hypogonadism	NOT_TRANSLATED		Hypogonadisme	alibaba
+HP:0000027	en	fr	rdfs:label	Azoospermia	NOT_TRANSLATED		Azoospermie	alibaba
+HP:0008669	en	fr	rdfs:label	Abnormal spermatogenesis	NOT_TRANSLATED		Spermatogenèse anormale	alibaba
+HP:0000028	en	fr	rdfs:label	Cryptorchidism	NOT_TRANSLATED		Cryptorchidie	alibaba
+HP:0000035	en	fr	rdfs:label	Abnormal testis morphology	NOT_TRANSLATED		Anomalie des testicules	alibaba
+HP:0000029	en	fr	rdfs:label	Testicular atrophy	NOT_TRANSLATED		Atrophie testiculaire	alibaba
+HP:0000030	en	fr	rdfs:label	Testicular gonadoblastoma	NOT_TRANSLATED		Gonadoblastome testiculaire	alibaba
+HP:0000150	en	fr	rdfs:label	Gonadoblastoma	NOT_TRANSLATED		Gonadoblastome	alibaba
+HP:0010788	en	fr	rdfs:label	Testicular neoplasm	NOT_TRANSLATED		tumeur testiculaire	alibaba
+HP:0000031	en	fr	rdfs:label	Epididymitis	NOT_TRANSLATED		Epididymite	alibaba
+HP:0009714	en	fr	rdfs:label	Abnormal epididymis morphology	NOT_TRANSLATED		Anomalie de l'épididyme	alibaba
+HP:0000032	en	fr	rdfs:label	Abnormality of male external genitalia	NOT_TRANSLATED		Anomalie des organes génitaux masculins externes	alibaba
+HP:0000811	en	fr	rdfs:label	Abnormal external genitalia	NOT_TRANSLATED		Organes génitaux externes anormaux	alibaba
+HP:0000033	en	fr	rdfs:label	Ambiguous genitalia, male	NOT_TRANSLATED		Ambiguïté sexuelle masculine	alibaba
+HP:0000062	en	fr	rdfs:label	Ambiguous genitalia	NOT_TRANSLATED		Ambiguïté sexuelle	alibaba
+HP:0000034	en	fr	rdfs:label	Hydrocele testis	NOT_TRANSLATED		Hydrocèle testiculaire	alibaba
+HP:0011961	en	fr	rdfs:label	Non-obstructive azoospermia	NOT_TRANSLATED		Azoospermie non obstructive	alibaba
+HP:0000036	en	fr	rdfs:label	Abnormal penis morphology	NOT_TRANSLATED		Anomalie du pénis	alibaba
+HP:0000037	en	fr	rdfs:label	Male pseudohermaphroditism	NOT_TRANSLATED		Pseudohermaphrodisme masculin	alibaba
+HP:0000039	en	fr	rdfs:label	Epispadias	NOT_TRANSLATED		Epispadias	alibaba
+HP:0100627	en	fr	rdfs:label	Displacement of the urethral meatus	NOT_TRANSLATED		Déplacement du méat urétral masculin	alibaba
+HP:0000040	en	fr	rdfs:label	Long penis	NOT_TRANSLATED		Pénis allongé	alibaba
+HP:0000041	en	fr	rdfs:label	Chordee	NOT_TRANSLATED		Chordée pénienne	alibaba
+HP:0000042	en	fr	rdfs:label	Absent external genitalia	NOT_TRANSLATED		Organes génitaux externes absents	alibaba
+HP:0000044	en	fr	rdfs:label	Hypogonadotropic hypogonadism	NOT_TRANSLATED		Gonadotrophines basses (hypogonadisme secondaire)	alibaba
+HP:0000045	en	fr	rdfs:label	Abnormality of the scrotum	NOT_TRANSLATED		Anomalie scrotale	alibaba
+HP:0000046	en	fr	rdfs:label	Small scrotum	NOT_TRANSLATED		Hypoplasie scrotale	alibaba
+HP:0000050	en	fr	rdfs:label	Hypoplastic male external genitalia	NOT_TRANSLATED		Appareil génital masculin hypoplasique	alibaba
+HP:0000047	en	fr	rdfs:label	Hypospadias	NOT_TRANSLATED		Hypospadias	alibaba
+HP:0000048	en	fr	rdfs:label	Bifid scrotum	NOT_TRANSLATED		Scrotum bifide	alibaba
+HP:0000049	en	fr	rdfs:label	Shawl scrotum	NOT_TRANSLATED		Scrotum en châle	alibaba
+HP:0003241	en	fr	rdfs:label	External genital hypoplasia	NOT_TRANSLATED		Hypoplasie des organes génitaux externes	alibaba
+HP:0000051	en	fr	rdfs:label	Perineal hypospadias	NOT_TRANSLATED		Hypospadias périnéal	alibaba
+HP:0000052	en	fr	rdfs:label	Urethral atresia, male	NOT_TRANSLATED		Atrésie urétrale masculine	alibaba
+HP:0000068	en	fr	rdfs:label	Urethral atresia	NOT_TRANSLATED		Atrésie urétrale	alibaba
+HP:0000053	en	fr	rdfs:label	Macroorchidism	NOT_TRANSLATED		Macroorchidie	alibaba
+HP:0045058	en	fr	rdfs:label	Abnormality of the testis size	NOT_TRANSLATED		Anomalie de la taille du testicule	alibaba
+HP:0000054	en	fr	rdfs:label	Micropenis	NOT_TRANSLATED		Micropénis	alibaba
+HP:0008736	en	fr	rdfs:label	Hypoplasia of penis	NOT_TRANSLATED		Hypoplasie du pénis	alibaba
+HP:0000055	en	fr	rdfs:label	Abnormality of female external genitalia	NOT_TRANSLATED		Anomalie des organes génitaux externes féminins	alibaba
+HP:0000056	en	fr	rdfs:label	Abnormality of the clitoris	NOT_TRANSLATED		Anomalie du clitoris	alibaba
+HP:0000057	en	fr	rdfs:label	obsolete Clitoromegaly	NOT_TRANSLATED			alibaba
+HP:0000058	en	fr	rdfs:label	Abnormal labia morphology	NOT_TRANSLATED		Anomalie des lèvres de la vulve	alibaba
+HP:0000059	en	fr	rdfs:label	Hypoplastic labia majora	NOT_TRANSLATED		Hypoplasie des grandes lèvres	alibaba
+HP:0000066	en	fr	rdfs:label	Labial hypoplasia	NOT_TRANSLATED		Hypoplasie labiale	alibaba
+HP:0012881	en	fr	rdfs:label	Abnormal labia majora morphology	NOT_TRANSLATED		Anomalie des grandes lèvres	alibaba
+HP:0000060	en	fr	rdfs:label	Clitoral hypoplasia	NOT_TRANSLATED		Hypoplasie clitoridienne	alibaba
+HP:0012815	en	fr	rdfs:label	Hypoplastic female external genitalia	NOT_TRANSLATED		Organes génitaux externes féminins hypoplasiques	alibaba
+HP:0040255	en	fr	rdfs:label	Aplasia/Hypoplasia of the clitoris	NOT_TRANSLATED		Aplasie / Hypoplasie du clitoris	alibaba
+HP:0000061	en	fr	rdfs:label	Ambiguous genitalia, female	NOT_TRANSLATED		Ambiguïté sexuelle féminine	alibaba
+HP:0000063	en	fr	rdfs:label	Fused labia minora	NOT_TRANSLATED		Petites lèvres fusionnées	alibaba
+HP:0012880	en	fr	rdfs:label	Abnormal labia minora morphology	NOT_TRANSLATED		Anomalie des petites lèvres	alibaba
+HP:0000064	en	fr	rdfs:label	Hypoplastic labia minora	NOT_TRANSLATED		Hypoplasie des petites lèvres	alibaba
+HP:0000065	en	fr	rdfs:label	Labial hypertrophy	NOT_TRANSLATED		Hypertrophie labiale	alibaba
+HP:0000067	en	fr	rdfs:label	Urethral atresia, female	NOT_TRANSLATED		Atrésie urétrale féminine	alibaba
+HP:0000795	en	fr	rdfs:label	Abnormality of the urethra	NOT_TRANSLATED		Anomalie de l'urètre	alibaba
+HP:0000069	en	fr	rdfs:label	Abnormality of the ureter	NOT_TRANSLATED		Anomalie de l'uretère	alibaba
+HP:0010935	en	fr	rdfs:label	Abnormality of the upper urinary tract	NOT_TRANSLATED		Anomalie des voies génito-urinaires hautes	alibaba
+HP:0000070	en	fr	rdfs:label	Ureterocele	NOT_TRANSLATED		Urétérocèle	alibaba
+HP:0025633	en	fr	rdfs:label	Abnormal ureter morphology	NOT_TRANSLATED			alibaba
+HP:0000071	en	fr	rdfs:label	Ureteral stenosis	NOT_TRANSLATED		Sténose urétérale	alibaba
+HP:0006000	en	fr	rdfs:label	Ureteral obstruction	NOT_TRANSLATED		Obstruction urétérale	alibaba
+HP:0000072	en	fr	rdfs:label	Hydroureter	NOT_TRANSLATED		Hydruretère	alibaba
+HP:0000073	en	fr	rdfs:label	Ureteral duplication	NOT_TRANSLATED		Duplication uretérale	alibaba
+HP:0000074	en	fr	rdfs:label	Ureteropelvic junction obstruction	NOT_TRANSLATED		Obstruction de la jonction pyélo-urétérale	alibaba
+HP:0000075	en	fr	rdfs:label	Renal duplication	NOT_TRANSLATED		Duplication rénale	alibaba
+HP:0012210	en	fr	rdfs:label	Abnormal renal morphology	NOT_TRANSLATED		Morphologie rénale  anormale	alibaba
+HP:0000076	en	fr	rdfs:label	Vesicoureteral reflux	NOT_TRANSLATED		Reflux vésico-urétéral	alibaba
+HP:0025634	en	fr	rdfs:label	Abnormal ureter physiology	NOT_TRANSLATED			alibaba
+HP:0000077	en	fr	rdfs:label	Abnormality of the kidney	NOT_TRANSLATED		Anomalie du rein	alibaba
+HP:0000078	en	fr	rdfs:label	Abnormality of the genital system	NOT_TRANSLATED		Anomalie du système génital	alibaba
+HP:0000119	en	fr	rdfs:label	Abnormality of the genitourinary system	NOT_TRANSLATED		Anomalie de l'appareil génitourinaire	alibaba
+HP:0000079	en	fr	rdfs:label	Abnormality of the urinary system	NOT_TRANSLATED		Anomalie du système urinaire	alibaba
+HP:0000080	en	fr	rdfs:label	Abnormality of reproductive system physiology	NOT_TRANSLATED		Anomalie de la physiologie génitale	alibaba
+HP:0000081	en	fr	rdfs:label	Duplicated collecting system	NOT_TRANSLATED		Système collecteur rénal dupliqué	alibaba
+HP:0004742	en	fr	rdfs:label	Abnormal renal collecting system morphology	NOT_TRANSLATED		Anomalie du système collecteur rénal	alibaba
+HP:0000083	en	fr	rdfs:label	Renal insufficiency	NOT_TRANSLATED		Insuffisance rénale	alibaba
+HP:0012211	en	fr	rdfs:label	Abnormal renal physiology	NOT_TRANSLATED		Physiologie rénale anormale	alibaba
+HP:0000085	en	fr	rdfs:label	Horseshoe kidney	NOT_TRANSLATED		Rein en fer à cheval	alibaba
+HP:0100542	en	fr	rdfs:label	Abnormal localization of kidney	NOT_TRANSLATED		Localisation anormale des reins	alibaba
+HP:0000086	en	fr	rdfs:label	Ectopic kidney	NOT_TRANSLATED		Rein ectopique	alibaba
+HP:0000089	en	fr	rdfs:label	Renal hypoplasia	NOT_TRANSLATED		Hypoplasie rénale	alibaba
+HP:0008678	en	fr	rdfs:label	Renal hypoplasia/aplasia	NOT_TRANSLATED		Hypoplasie/aplasie rénale	alibaba
+HP:0000090	en	fr	rdfs:label	Nephronophthisis	NOT_TRANSLATED		Néphronophthise	alibaba
+HP:0100957	en	fr	rdfs:label	Abnormal renal medulla morphology	NOT_TRANSLATED		Anomalie de la médulla rénale	alibaba
+HP:0000091	en	fr	rdfs:label	Abnormal renal tubule morphology	NOT_TRANSLATED		Anomalie du tubule rénal	alibaba
+HP:0012575	en	fr	rdfs:label	Abnormal nephron morphology	NOT_TRANSLATED		Anomalie du néphron	alibaba
+HP:0000092	en	fr	rdfs:label	Renal tubular atrophy	NOT_TRANSLATED		Atrophie tubulaire	alibaba
+HP:0032599	en	fr	rdfs:label	Abnormal renal tubular epithelial morphology	NOT_TRANSLATED			alibaba
+HP:0000093	en	fr	rdfs:label	Proteinuria	NOT_TRANSLATED		Protéinurie	alibaba
+HP:0020129	en	fr	rdfs:label	Abnormal urine protein level	NOT_TRANSLATED			alibaba
+HP:0000095	en	fr	rdfs:label	Abnormal renal glomerulus morphology	NOT_TRANSLATED		Anomalie morphologique glomérulaire	alibaba
+HP:0031263	en	fr	rdfs:label	Abnormal renal corpuscle morphology	NOT_TRANSLATED		Morphologie anormale du corpuscule rénal	alibaba
+HP:0000096	en	fr	rdfs:label	Glomerular sclerosis	NOT_TRANSLATED		Glomérulosclérose	alibaba
+HP:0000097	en	fr	rdfs:label	Focal segmental glomerulosclerosis	NOT_TRANSLATED		Hyalinose segmentaire et focale avec syndrome néphrotique	alibaba
+HP:0000098	en	fr	rdfs:label	Tall stature	NOT_TRANSLATED		Grande taille	alibaba
+HP:0000099	en	fr	rdfs:label	Glomerulonephritis	NOT_TRANSLATED		Glomérulonéphrite	alibaba
+HP:0000123	en	fr	rdfs:label	Nephritis	NOT_TRANSLATED		Néphrite	alibaba
+HP:0000100	en	fr	rdfs:label	Nephrotic syndrome	NOT_TRANSLATED		Syndrome néphrotique	alibaba
+HP:0000103	en	fr	rdfs:label	Polyuria	NOT_TRANSLATED		Polyurie	alibaba
+HP:0012590	en	fr	rdfs:label	Abnormal urine output	NOT_TRANSLATED		Volume d'urine anormal	alibaba
+HP:0000104	en	fr	rdfs:label	Renal agenesis	NOT_TRANSLATED		Agénésie rénale	alibaba
+HP:0000105	en	fr	rdfs:label	Enlarged kidney	NOT_TRANSLATED		Reins élargis	alibaba
+HP:0000108	en	fr	rdfs:label	Renal corticomedullary cysts	NOT_TRANSLATED		Kystes corticomédullaires	alibaba
+HP:0011035	en	fr	rdfs:label	Abnormal renal cortex morphology	NOT_TRANSLATED		Anomalie morphologique du cortex rénal	alibaba
+HP:0000110	en	fr	rdfs:label	Renal dysplasia	NOT_TRANSLATED		Dysplasie rénale	alibaba
+HP:0000111	en	fr	rdfs:label	Renal juxtaglomerular cell hypertrophy/hyperplasia	NOT_TRANSLATED		Hypertrophie/hyperplasie des cellules juxtaglomérulaires	alibaba
+HP:0000112	en	fr	rdfs:label	Nephropathy	NOT_TRANSLATED		Néphropathie	alibaba
+HP:0000113	en	fr	rdfs:label	Polycystic kidney dysplasia	NOT_TRANSLATED		Dysplasie rénale polykystique	alibaba
+HP:0000114	en	fr	rdfs:label	Proximal tubulopathy	NOT_TRANSLATED		Tubulopathie proximale	alibaba
+HP:0000124	en	fr	rdfs:label	Renal tubular dysfunction	NOT_TRANSLATED		Dysfonction tubulaire rénale	alibaba
+HP:0000117	en	fr	rdfs:label	Renal phosphate wasting	NOT_TRANSLATED		Perte rénale de phosphates	alibaba
+HP:0012599	en	fr	rdfs:label	Abnormal urine phosphate concentration	NOT_TRANSLATED		Dosage du phosphate urinaire anormal	alibaba
+HP:0000118	en	fr	rdfs:label	Phenotypic abnormality	NOT_TRANSLATED		Anomalie phénotypique	alibaba
+HP:0000121	en	fr	rdfs:label	Nephrocalcinosis	NOT_TRANSLATED		Néphrocalcinose	alibaba
+HP:0000122	en	fr	rdfs:label	Unilateral renal agenesis	NOT_TRANSLATED		Agénésie rénale unilatérale	alibaba
+HP:0000125	en	fr	rdfs:label	Pelvic kidney	NOT_TRANSLATED		Rein pelvien	alibaba
+HP:0000126	en	fr	rdfs:label	Hydronephrosis	NOT_TRANSLATED		Hydronéphrose	alibaba
+HP:0010946	en	fr	rdfs:label	Dilatation of the renal pelvis	NOT_TRANSLATED		Dilatation du pelvis rénal	alibaba
+HP:0000127	en	fr	rdfs:label	Renal salt wasting	NOT_TRANSLATED		Perte rénale de sel	alibaba
+HP:0012591	en	fr	rdfs:label	Abnormal urinary electrolyte concentration	NOT_TRANSLATED		Dosage des électrolytes urinaires anormal	alibaba
+HP:0000128	en	fr	rdfs:label	Renal potassium wasting	NOT_TRANSLATED		Perte rénale de potassium	alibaba
+HP:0012598	en	fr	rdfs:label	Abnormal urine potassium concentration	NOT_TRANSLATED		Potassium urinaire anormal	alibaba
+HP:0000130	en	fr	rdfs:label	Abnormality of the uterus	NOT_TRANSLATED		Anomalie de l'utérus	alibaba
+HP:0000131	en	fr	rdfs:label	Uterine leiomyoma	NOT_TRANSLATED		Léiomyome utérin	alibaba
+HP:0010784	en	fr	rdfs:label	Uterine neoplasm	NOT_TRANSLATED		Tumeur de l'uterus	alibaba
+HP:0000132	en	fr	rdfs:label	Menorrhagia	NOT_TRANSLATED		Ménorragie	alibaba
+HP:0000140	en	fr	rdfs:label	Abnormality of the menstrual cycle	NOT_TRANSLATED		Anomalie du cycle menstruel	alibaba
+HP:0001892	en	fr	rdfs:label	Abnormal bleeding	NOT_TRANSLATED		Saignement anormal	alibaba
+HP:0000133	en	fr	rdfs:label	Gonadal dysgenesis	NOT_TRANSLATED		Dysgénésie gonadique	alibaba
+HP:0000134	en	fr	rdfs:label	Female hypogonadism	NOT_TRANSLATED		Hypogonadisme féminin	alibaba
+HP:0031066	en	fr	rdfs:label	Abnormal ovarian physiology	NOT_TRANSLATED		Physiologie ovarienne anormale	alibaba
+HP:0008373	en	fr	rdfs:label	Puberty and gonadal disorders	NOT_TRANSLATED		Troubles gonadiques et pubertaires	alibaba
+HP:0000136	en	fr	rdfs:label	Bifid uterus	NOT_TRANSLATED		Utérus bifide	alibaba
+HP:0031105	en	fr	rdfs:label	Abnormal uterus morphology	NOT_TRANSLATED		Morphologie anormale de l'utérus	alibaba
+HP:0000137	en	fr	rdfs:label	Abnormality of the ovary	NOT_TRANSLATED		Anomalie ovarienne	alibaba
+HP:0000138	en	fr	rdfs:label	Ovarian cyst	NOT_TRANSLATED		Kyste ovarien	alibaba
+HP:0031065	en	fr	rdfs:label	Abnormal ovarian morphology	NOT_TRANSLATED		Morphologie ovarienne anormale	alibaba
+HP:0000139	en	fr	rdfs:label	Uterine prolapse	NOT_TRANSLATED		Prolapsus utérin	alibaba
+HP:0100823	en	fr	rdfs:label	Genital hernia	NOT_TRANSLATED		Hernie génitale	alibaba
+HP:0030012	en	fr	rdfs:label	Abnormal female reproductive system physiology	NOT_TRANSLATED		Anomalie de la physiologie du système reproducteur féminin	alibaba
+HP:0000141	en	fr	rdfs:label	Amenorrhea	NOT_TRANSLATED		Aménorrhée	alibaba
+HP:0000142	en	fr	rdfs:label	Abnormal vagina morphology	NOT_TRANSLATED		Anomalie morphologique vaginale	alibaba
+HP:0000143	en	fr	rdfs:label	Rectovaginal fistula	NOT_TRANSLATED		Fistule recto-vaginale	alibaba
+HP:0004320	en	fr	rdfs:label	Vaginal fistula	NOT_TRANSLATED		Fistule vaginale	alibaba
+HP:0100590	en	fr	rdfs:label	Rectal fistula	NOT_TRANSLATED		Fistule rectale	alibaba
+HP:0000144	en	fr	rdfs:label	Decreased fertility	NOT_TRANSLATED		Diminution de la fertilité	alibaba
+HP:0000145	en	fr	rdfs:label	Transverse vaginal septum	NOT_TRANSLATED		Septum vaginal transversal	alibaba
+HP:0001153	en	fr	rdfs:label	Septate vagina	NOT_TRANSLATED		Vagin cloisonné	alibaba
+HP:0000147	en	fr	rdfs:label	Polycystic ovaries	NOT_TRANSLATED		Ovaires polykystiques	alibaba
+HP:0000148	en	fr	rdfs:label	Vaginal atresia	NOT_TRANSLATED		Atrésie vaginale	alibaba
+HP:0001827	en	fr	rdfs:label	Genital tract atresia	NOT_TRANSLATED		Atrésie du tractus génital	alibaba
+HP:0000149	en	fr	rdfs:label	Ovarian gonadoblastoma	NOT_TRANSLATED		Gonadoblastome ovarien	alibaba
+HP:0100615	en	fr	rdfs:label	Ovarian neoplasm	NOT_TRANSLATED		Néoplasie de l'ovaire	alibaba
+HP:0100728	en	fr	rdfs:label	Germ cell neoplasia	NOT_TRANSLATED		Néoplasie des cellules germinales	alibaba
+HP:0000151	en	fr	rdfs:label	Aplasia of the uterus	NOT_TRANSLATED		Aplasie utérine	alibaba
+HP:0000152	en	fr	rdfs:label	Abnormality of head or neck	NOT_TRANSLATED		Anomalie de la tête ou du cou	alibaba
+HP:0000153	en	fr	rdfs:label	Abnormality of the mouth	NOT_TRANSLATED		Anomalie de la bouche	alibaba
+HP:0000271	en	fr	rdfs:label	Abnormality of the face	NOT_TRANSLATED		Anomalie du visage	alibaba
+HP:0000154	en	fr	rdfs:label	Wide mouth	NOT_TRANSLATED		Macrostomie	alibaba
+HP:0011337	en	fr	rdfs:label	Abnormality of mouth size	NOT_TRANSLATED		Anomalie de la taille de la bouche	alibaba
+HP:0000155	en	fr	rdfs:label	Oral ulcer	NOT_TRANSLATED		Ulcère buccal	alibaba
+HP:0011830	en	fr	rdfs:label	Abnormal oral mucosa morphology	NOT_TRANSLATED		Anomalie morphologique de la muqueuse orale	alibaba
+HP:0000157	en	fr	rdfs:label	Abnormality of the tongue	NOT_TRANSLATED		Anomalie de la langue	alibaba
+HP:0000163	en	fr	rdfs:label	Abnormal oral cavity morphology	NOT_TRANSLATED		Anomalie morphologique de la cavité orale	alibaba
+HP:0000158	en	fr	rdfs:label	Macroglossia	NOT_TRANSLATED		Macroglossie	alibaba
+HP:0003712	en	fr	rdfs:label	Skeletal muscle hypertrophy	NOT_TRANSLATED		Hypertrophie musculaire squelettique	alibaba
+HP:0030809	en	fr	rdfs:label	Abnormal tongue morphology	NOT_TRANSLATED		Morphologie anormale de la langue	alibaba
+HP:0000159	en	fr	rdfs:label	Abnormal lip morphology	NOT_TRANSLATED		Anomalie des lèvres	alibaba
+HP:0000160	en	fr	rdfs:label	Narrow mouth	NOT_TRANSLATED		Microstomie	alibaba
+HP:0000161	en	fr	rdfs:label	Median cleft lip	NOT_TRANSLATED		Fente labiale médiane	alibaba
+HP:0000204	en	fr	rdfs:label	Cleft upper lip	NOT_TRANSLATED		Fente labiale supérieure	alibaba
+HP:0000162	en	fr	rdfs:label	Glossoptosis	NOT_TRANSLATED		Glossoptose	alibaba
+HP:0031816	en	fr	rdfs:label	Abnormal oral morphology	NOT_TRANSLATED		Morphologie buccale anormale	alibaba
+HP:0000164	en	fr	rdfs:label	Abnormality of the dentition	NOT_TRANSLATED		Anomalie  dentaires	alibaba
+HP:0000166	en	fr	rdfs:label	Severe periodontitis	NOT_TRANSLATED		Périodontite sévère	alibaba
+HP:0000704	en	fr	rdfs:label	Periodontitis	NOT_TRANSLATED		Périodontite	alibaba
+HP:0000168	en	fr	rdfs:label	Abnormality of the gingiva	NOT_TRANSLATED		Anomalie  des gencives	alibaba
+HP:0000169	en	fr	rdfs:label	Gingival fibromatosis	NOT_TRANSLATED		Fibromatose gingivale	alibaba
+HP:0010614	en	fr	rdfs:label	Fibroma	NOT_TRANSLATED		Fibrome	alibaba
+HP:0000171	en	fr	rdfs:label	Microglossia	NOT_TRANSLATED		Microglossie	alibaba
+HP:0010295	en	fr	rdfs:label	Aplasia/Hypoplasia of the tongue	NOT_TRANSLATED		Aplasie/hypoplasie de la langue	alibaba
+HP:0000172	en	fr	rdfs:label	Abnormal uvula morphology	NOT_TRANSLATED		Anomalie de l'uvule palatine	alibaba
+HP:0100736	en	fr	rdfs:label	Abnormal soft palate morphology	NOT_TRANSLATED		Anomalie du palais mou	alibaba
+HP:0000174	en	fr	rdfs:label	Abnormal palate morphology	NOT_TRANSLATED		Anomalie du palais	alibaba
+HP:0000175	en	fr	rdfs:label	Cleft palate	NOT_TRANSLATED		Fente palatine	alibaba
+HP:0000202	en	fr	rdfs:label	Orofacial cleft	NOT_TRANSLATED		Fente labio-palatine	alibaba
+HP:0000176	en	fr	rdfs:label	Submucous cleft hard palate	NOT_TRANSLATED		Fente sous-muqueuse du palais dur	alibaba
+HP:0410031	en	fr	rdfs:label	Submucous cleft of soft and hard palate	NOT_TRANSLATED		Fente sous-muqueuse du palais mou et dur	alibaba
+HP:0000177	en	fr	rdfs:label	Abnormal upper lip morphology	NOT_TRANSLATED		Anomalie de la lèvre supérieure	alibaba
+HP:0000178	en	fr	rdfs:label	Abnormal lower lip morphology	NOT_TRANSLATED		Anomalie de la lèvre inférieure	alibaba
+HP:0000179	en	fr	rdfs:label	Thick lower lip vermilion	NOT_TRANSLATED		Lèvre inférieure épaisse	alibaba
+HP:0012471	en	fr	rdfs:label	Thick vermilion border	NOT_TRANSLATED		Bordure du vermillon épaisse	alibaba
+HP:0000180	en	fr	rdfs:label	Lobulated tongue	NOT_TRANSLATED		Langue lobulée	alibaba
+HP:0000182	en	fr	rdfs:label	Movement abnormality of the tongue	NOT_TRANSLATED		Mouvements anormaux de la langue	alibaba
+HP:0030810	en	fr	rdfs:label	Abnormal tongue physiology	NOT_TRANSLATED		Physiologie anormale de la langue	alibaba
+HP:0000183	en	fr	rdfs:label	Difficulty in tongue movements	NOT_TRANSLATED		Difficulté dans les mouvements de la langue	alibaba
+HP:0000185	en	fr	rdfs:label	Cleft soft palate	NOT_TRANSLATED		Fente du palais mou	alibaba
+HP:0000187	en	fr	rdfs:label	Broad alveolar ridges	NOT_TRANSLATED		Crêtes alvéolaires larges	alibaba
+HP:0006477	en	fr	rdfs:label	Abnormality of the alveolar ridges	NOT_TRANSLATED		Anomalie des crêtes alvéolaires	alibaba
+HP:0000188	en	fr	rdfs:label	Short upper lip	NOT_TRANSLATED		Lèvre supérieure courte	alibaba
+HP:0000189	en	fr	rdfs:label	Narrow palate	NOT_TRANSLATED		Palais étroit	alibaba
+HP:0000190	en	fr	rdfs:label	Abnormal oral frenulum morphology	NOT_TRANSLATED		Anomalie morphologique du frein lingual	alibaba
+HP:0000191	en	fr	rdfs:label	Accessory oral frenulum	NOT_TRANSLATED		Frein lingual accessoire	alibaba
+HP:0000193	en	fr	rdfs:label	Bifid uvula	NOT_TRANSLATED		Luette bifide	alibaba
+HP:0000194	en	fr	rdfs:label	Open mouth	NOT_TRANSLATED		Bouche entrouverte	alibaba

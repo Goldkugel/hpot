@@ -1,0 +1,1 @@
+python3 translateTSV.py /home/pallaoro/hpot/data/generated/babelon/hp-en.babelon.tsv /home/pallaoro/hpot/data/generated/babelon/hp-fr.synthetic.babelon.tsv en fr /home/pallaoro/hpot/data/source/babelon/hp-fr.babelon.tsv 30
