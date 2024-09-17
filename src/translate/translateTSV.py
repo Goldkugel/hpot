@@ -51,10 +51,10 @@ for index, row in target.iterrows():
     translations = list(official["translation_value"][official["subject_id"] == row["subject_id"]])
     if len(translations) == 1:
         target.loc[index, "translation_official"] = translations[0]
-        print("Official translation: YES. ", end="")
+        print("Official translation: YES. ")
     else:
         target.loc[index, "translation_official"] = "ERROR"
-        print("Official translation:  NO. ", end="")
+        print("Official translation:  NO. ")
 
     success = True
     new = False
@@ -76,9 +76,9 @@ for index, row in target.iterrows():
             else:
                 print("\tAlready translated  {0: >8}. ".format(translator))
         if success:
-            print("Translated     successfully. ", end="")
+            print("Translated     successfully. ")
         else:
-            print("Translated NOT successfully. ", end="")
+            print("Translated NOT successfully. ")
             timeout = timeout * 2
             if (timeout > maxTimeOut):
                 timeout = maxTimeOut
