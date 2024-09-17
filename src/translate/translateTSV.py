@@ -51,33 +51,39 @@ for index, row in target.iterrows():
     translations = list(official["translation_value"][official["subject_id"] == row["subject_id"]])
     if len(translations) == 1:
         target.loc[index, "translation_official"] = translations[0]
+        print("Official translation: YES. ", end="")
     else:
         target.loc[index, "translation_official"] = "ERROR"
-        print("No official translation has been found. ", end="")
+        print("Official translation:  NO. ", end="")
 
     success = True
+    new = False
 
     if row["source_value"]:
         for translator in translators:
             if not target[translator][index] or len(target[translator][index]) == 0:
                 try:
-                    target.loc[index, translator] = html.unescape(ts.translate_text(query_text = str(row["source_value"]), translator = translator, from_language = sourceLanguage, to_language = targetLanguage))
+                    target.loc[index, translator] = html.unescape(ts.translate_text(query_text = str(row["source_value"]), 
+                        translator = translator, 
+                        from_language = sourceLanguage, 
+                        to_language = targetLanguage))
+                    new = True
+                    print("\t        Translated  {0: >8}. ".format(translator))
                 except Exception as e:
                     target.loc[index, translator] = ""
                     success = False
-                    if (timeout > maxTimeOut):
-                        print("Max timeout {} reached. {} has not been translated with {} ({}). ".format(timeout, row["subject_id"], translator, str(e)), end="")
-                    else:
-                        timeout = timeout * 2
-                        print("Timeout set to {}. {} has not been translated with {} ({}). ".format(timeout, row["subject_id"], translator, str(e)), end="")
+                    print("\tError   translating {0: >8}. Error: {0: >30}".format(translator, str(e)), end="")
             else:
-                print("Skipping {} with translator {}. ".format(row["subject_id"], translator), end="")
+                print("\tAlready translated  {0: >8}. ".format(translator))
         if success:
-            print("Translated successfully.")
+            print("Translated     successfully. ", end="")
         else:
-            print("Errors were encountered.")
+            print("Translated NOT successfully. ", end="")
+            timeout = timeout * 2
+            if (timeout > maxTimeOut):
+                timeout = maxTimeOut
+    
+    if (new):
         time.sleep(timeout)
-    else:
-        print("No string to translate has been found.")
 
     target.to_csv(targetFile, sep = separator, index = False, mode = mode)
